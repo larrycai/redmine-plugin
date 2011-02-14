@@ -10,6 +10,7 @@
 	
   <name>Hudson Redmine plugin</name>
   <artifactId>redmine</artifactId>
+  <packaging>hpi</packaging>
   <version>0.10-SNAPSHOT</version>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Redmine+Plugin</url>
 
